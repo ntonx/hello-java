@@ -3,5 +3,10 @@ public class dev1{
 		System.out.println("Hello world this is developer 1");
 		
         return "hi";
+    }
+    
+    public static String getName(String data){
+		
+        return data;
 	}
 }
