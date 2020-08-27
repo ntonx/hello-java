@@ -1,7 +1,9 @@
 public class dev2{
-	public static String myfunction(String data){
-		System.out.println("Hello world this is developer 2");
-		
-        return "bye";
+	public String myfunction(String data){	
+        return data;
+    }
+    
+    public String getLastname(String lastname){
+	    return lastname;
 	}
 }
