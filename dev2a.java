@@ -6,5 +6,9 @@ public class dev2a{
     
     public String getName(String name){
 	    return name;
+    }
+    
+    public String getX(String name){
+	    return name;
 	}
 }
