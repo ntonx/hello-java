@@ -15,5 +15,8 @@ public class dev3{
     public String getY(String name){
 	    return name;
     }
+    public String getZ(String name){
+	    return name;
+    }
     
 }
