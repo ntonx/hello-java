@@ -11,5 +11,9 @@ public class dev3{
     public String getX(String name){
 	    return name;
     }
+
+    public String getY(String name){
+	    return name;
+    }
     
 }
