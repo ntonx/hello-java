@@ -11,5 +11,4 @@ public class dev3{
     public String getX(String name){
 	    return name;
     }
-    
 }
